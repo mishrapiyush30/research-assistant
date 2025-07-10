@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  research-assistant:
+    build: .
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true 
