@@ -2,6 +2,8 @@
 
 A lightweight agent that can autonomously decide which external tools to call (Wikipedia lookup, calculator, live weather) to answer multi-step user questions.
 
+![Research Assistant Interface](docs/screenshot.png)
+
 ## Features
 
 - **Tool Registry**:
